@@ -729,5 +729,6 @@ footer {
 
   .modal__half {
     padding: 40px;
+    height: 50vh;
   }
 }
